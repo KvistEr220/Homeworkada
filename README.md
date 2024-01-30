@@ -5,3 +5,5 @@ To those of reading, I used git's console and Bash, but could not upload the pro
 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
 
 Thanks in advance
+
+(also, as you asked, the homeworks are in branches)
