@@ -1,4 +1,4 @@
-public class MyClass {
+public class hw1-1 {
   public static void main(String args[]) {
 
 
