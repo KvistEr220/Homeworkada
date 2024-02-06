@@ -1,4 +1,4 @@
-public class SumOfNumbers1  
+public class hw1-5
 {  
 public static void main(String args[])   
 {  
